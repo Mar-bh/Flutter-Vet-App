@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866319221766",
+    "project_id": "tc2007bflutter",
+    "storage_bucket": "tc2007bflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866319221766:android:5cec610232116896346f87",
+        "android_client_info": {
+          "package_name": "com.example.flutter_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFR0beQiyE29AmSDOt_Rdi6wmP60ecR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866319221766:android:3737cf8dfb2fdc56346f87",
+        "android_client_info": {
+          "package_name": "com.example.the_vet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFR0beQiyE29AmSDOt_Rdi6wmP60ecR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
